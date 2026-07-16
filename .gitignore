@@ -1,3 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.venv/
+env/
+ENV/
+lib/
+bin/
+
 docs/
 *.doc
 *.docx
